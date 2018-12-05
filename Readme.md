@@ -1,5 +1,5 @@
 The purpose of this mp was to take an array of LC-3 machine commands and
-emulating them through an LC-3 simulator. THe simulator runs through a certain
+emulating them through an LC-3 simulator. The simulator runs through a certain
 configuration and a defined number of steps. Firstly, the simualator takes the
 starting address given within the arguments and starts to copy the program into
 an array representing the memory. Another array, which represents the registers
